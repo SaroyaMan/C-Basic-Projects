@@ -1,0 +1,1 @@
+Bike - 250, Race_Bike - 500, Average_Car - 1500, Mercedes - 3000, Lamborgini - 10000, Small_Plane - 30000;

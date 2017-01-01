@@ -1,0 +1,1 @@
+Water - 4, Soda - 8, Juice - 10, Cola - 15, Ice_Tea - 13, Beer - 25, Wine - 30, Whisky - 70;
